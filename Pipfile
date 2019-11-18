@@ -10,6 +10,7 @@ jupyter = "*"
 pandas = "*"
 matplotlib = "*"
 seaborn = "*"
+xlrd = "*"
 
 [requires]
 python_version = "3.7"
