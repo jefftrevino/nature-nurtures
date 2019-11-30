@@ -7,10 +7,8 @@ verify_ssl = true
 
 [packages]
 jupyter = "*"
-pandas = "*"
-matplotlib = "*"
-seaborn = "*"
-xlrd = "*"
+numpy = "*"
+librosa = "*"
 
 [requires]
 python_version = "3.7"
