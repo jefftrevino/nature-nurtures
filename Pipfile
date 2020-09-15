@@ -12,6 +12,7 @@ librosa = "*"
 pandas = "*"
 matplotlib = "*"
 seaborn = "*"
+pillow = "*"
 
 [requires]
 python_version = "3.7"
